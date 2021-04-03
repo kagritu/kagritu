@@ -1,8 +1,7 @@
-![Salil Naik's-cover](./Cover-page)
 
 ## About Me
 
-- 🔭 I’m currently working on GSSoC'21
+- 🔭 I’m currently a participant in GSSoC'21
 
 - 🌱 I’m currently learning **Bootstrap**
 
