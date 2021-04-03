@@ -1,7 +1,7 @@
 
 ## About Me
 
-- 🔭 I’m currently a participant in GSSoC'21
+- 🔭 I’m currently a Computer Science Engineer pursuing my B.tech in National Institute of Technology, Silchar.
 
 - 🌱 I’m currently learning **Bootstrap**
 
