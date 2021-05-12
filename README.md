@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 📫 Contact me **[here](kagyungritu@gmail.com)**
-
 
 ## 📚 My Skills
 
