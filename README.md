@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently pursuing my B.tech in Computer Science and Engineering at National Institute of Technology, Silchar.
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Node.js**
 
 
 ## 📚 My Skills
